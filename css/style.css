@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Arial";
+}
+
+body {
+    font-family: Roboto, sans-serif;
+}
+
+.header_description_button, .form_button_submit {
+    background: coral;
+}
+
+.header_description_button:hover, .form_button_submit:hover {
+    background: lightcoral;
+}
+
+.card_description, .section_description {
+    font-size: 14px;
+}
